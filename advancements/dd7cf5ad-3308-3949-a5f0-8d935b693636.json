@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-08-03 06:25:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-07-28 20:05:36 +0800"
@@ -1632,8 +1638,10 @@
     "criteria": {
       "cooked_mutton": "2021-07-28 23:15:20 +0800",
       "cooked_beef": "2021-07-28 21:36:23 +0800",
+      "rotten_flesh": "2021-08-03 06:59:50 +0800",
       "melon_slice": "2021-07-28 20:03:09 +0800",
       "cooked_chicken": "2021-08-02 22:58:11 +0800",
+      "mushroom_stew": "2021-08-03 06:37:42 +0800",
       "carrot": "2021-07-28 23:03:55 +0800"
     },
     "done": false
@@ -2596,6 +2604,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-07-29 21:45:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-08-03 06:20:02 +0800"
     },
     "done": true
   },
