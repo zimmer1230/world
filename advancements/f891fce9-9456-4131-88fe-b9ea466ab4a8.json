@@ -2122,15 +2122,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2021-08-08 13:02:32 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2021-08-08 13:00:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2021-08-08 13:02:32 +0800"
     },
     "done": true
   },
