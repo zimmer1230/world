@@ -1657,6 +1657,7 @@
     "criteria": {
       "minecraft:forest": "2021-07-24 15:15:28 +0800",
       "minecraft:mountains": "2021-07-24 15:58:01 +0800",
+      "minecraft:taiga": "2021-08-08 21:37:20 +0800",
       "minecraft:desert_hills": "2021-07-24 16:17:24 +0800",
       "minecraft:desert": "2021-07-24 16:16:21 +0800",
       "minecraft:birch_forest": "2021-07-24 16:07:14 +0800",
@@ -1667,6 +1668,7 @@
       "minecraft:river": "2021-07-24 15:50:13 +0800",
       "minecraft:lukewarm_ocean": "2021-07-24 16:13:47 +0800",
       "minecraft:birch_forest_hills": "2021-07-24 16:07:13 +0800",
+      "minecraft:wooded_mountains": "2021-08-08 21:31:49 +0800",
       "minecraft:wooded_hills": "2021-07-24 15:53:01 +0800",
       "minecraft:stone_shore": "2021-07-24 16:08:55 +0800",
       "minecraft:savanna": "2021-07-24 16:20:03 +0800",
@@ -1797,6 +1799,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2021-08-04 20:41:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2021-08-08 21:19:51 +0800"
     },
     "done": true
   },
@@ -2035,6 +2043,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2021-07-29 14:53:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2021-08-08 21:19:51 +0800"
     },
     "done": true
   },
@@ -2371,6 +2385,12 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2021-08-03 15:05:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2021-08-08 21:32:20 +0800"
     },
     "done": true
   },
@@ -3094,6 +3114,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2021-08-08 13:07:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2021-08-08 21:19:51 +0800"
     },
     "done": true
   },
