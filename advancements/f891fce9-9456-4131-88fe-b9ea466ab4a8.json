@@ -1671,6 +1671,7 @@
       "minecraft:wooded_mountains": "2021-08-08 21:31:49 +0800",
       "minecraft:wooded_hills": "2021-07-24 15:53:01 +0800",
       "minecraft:stone_shore": "2021-07-24 16:08:55 +0800",
+      "minecraft:swamp": "2021-08-10 17:18:37 +0800",
       "minecraft:savanna": "2021-07-24 16:20:03 +0800",
       "minecraft:plains": "2021-07-24 15:08:55 +0800"
     },
@@ -2476,6 +2477,7 @@
     "criteria": {
       "cooked_mutton": "2021-07-24 16:03:57 +0800",
       "cooked_beef": "2021-07-25 13:54:50 +0800",
+      "chorus_fruit": "2021-08-10 17:29:05 +0800",
       "bread": "2021-07-26 14:28:11 +0800",
       "melon_slice": "2021-07-26 14:49:17 +0800",
       "cooked_chicken": "2021-07-24 15:46:53 +0800",
